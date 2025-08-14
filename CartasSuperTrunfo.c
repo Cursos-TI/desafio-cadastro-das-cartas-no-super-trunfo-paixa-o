@@ -138,7 +138,7 @@ int main(){
     printf("CARTA 01 VENCEU (%d) X CARTA 02 VENCEU (%d) - Área\n", (area1 > area2), (area2 > area1));
     printf("CARTA 01 VENCEU (%d) X CARTA 02 VENCEU (%d) - Pib\n", (pib1 > pib2), (pib2 > pib2));
     printf("CARTA 01 VENCEU (%d) X CARTA 02 VENCEU (%d) - Pontos Turísticos\n", (pontosTuristico1 > pontosTuristico2), (pontosTuristico2 > pontosTuristico1));
-    printf("CARTA 01 VENCEU (%d) X CARTA 02 VENCEU (%d) - Densidade Populacional\n", (inversoDensidadePopulacional1 > inversoDensidadePopulacional2), (inversoDensidadePopulacional2 > inversoDensidadePopulacional2));
+    printf("CARTA 01 VENCEU (%d) X CARTA 02 VENCEU (%d) - Densidade Populacional\n", (inversoDensidadePopulacional1 > inversoDensidadePopulacional2), (inversoDensidadePopulacional2 > inversoDensidadePopulacional1));
     printf("CARTA 01 VENCEU (%d) X CARTA 02 VENCEU (%d) - PIB Per Capita\n", (pibPerCapita1 > pibPerCapita2), (pibPerCapita2 > pibPerCapita1));
     printf("CARTA 01 VENCEU (%d) X CARTA 02 VENCEU (%d) - Super Poder\n\n", (superPoderCarta1 > superPoderCarta2), (superPoderCarta2 > superPoderCarta1));
 
